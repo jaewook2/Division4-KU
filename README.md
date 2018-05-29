@@ -52,7 +52,7 @@ Edge Computing Technology considering Intelligent CPS Environment
 - 고려대학교 백상헌(shpack@korea.ac.kr)
 
 ### 실무자
-- 고려대학교 정호현(iioiioiio123@korea.ac.kr)
+- 고려대학교 (iioiioiio123@korea.ac.kr)
 - 고려대학교 김준우(starjoon0202@korea.ac.kr)
 - 고려대하교 태유진(taeyu2706@korea.ac.kr)
 
